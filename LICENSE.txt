@@ -1,82 +1,52 @@
-# 📜 PMSL-v1 — Public Memory Structure License v1
+PMSL-v1 - Public Memory Structure License v1
 
-> Because memory should stay free, open, and shareable — forever.
+Because memory should stay free, open, and shareable — forever.
 
----
+## Purpose
 
-## 🧠 Purpose
+The Public Memory Structure License (PMSL-v1) exists to protect the format, structure, and function of memory-based systems — including tools, agents, and books — so that they may remain free to use, remix, build on, and improve by anyone, anywhere.
 
-The **Public Memory Structure License (PMSL-v1)** exists to protect the **format, structure, and function** of memory-based systems — including tools, agents, and books — so that they may remain **free to use, remix, build on, and improve** by anyone, anywhere.
+This license is for the world, not the individual. It is not about credit. It is about ensuring no one locks memory behind a brand, a patent, or a profit wall.
 
-This license is for the **world**, not the individual. It is not about credit. It is about **ensuring no one locks memory behind a brand, a patent, or a profit wall**.
+## You Are Free To
 
----
+* Use this format in personal, open-source, commercial, or government projects
+* Modify and extend any `.mark`, `.marker`, `.book`, `.trail`, `.page`, `.ribbon`, or `.mstp` file
+* Create new tools, agents, or platforms that rely on memory routing structures
+* Sell access to software or systems that use these memory structures
+* Contribute improvements to the protocol or structure
 
-## ✅ You Are Free To
+## You May Not
 
-* ✅ Use this format in personal, open-source, commercial, or government projects
-* ✅ Fork, modify, and expand any `.book`, `.mark`, `.marker`, `.page`, `.trail`, `.ribbon`, or `.mstp` structure
-* ✅ Build your own tools, agents, agents-as-apps, UIs, or workflows using PMSL-based memory structures
-* ✅ Sell your books, systems, or products that use these formats
-* ✅ Replace any reference to PMSL in your tools — so long as you follow the rules below
+* Rename PMSL-covered systems (e.g. MARK, Bookstore) and claim them as original
+* Lock improvements to the structure behind a proprietary license
+* Restrict others from viewing or modifying structural memory logic
+* Mislead others about the version or source of the structure
 
----
+## If You Improve It
 
-## ❌ You May Not
+If you improve how memory is routed, tracked, visualized, or marked:
 
-* ❌ Claim the PMSL memory format as **your original invention**
-* ❌ Rebrand or close off `.mark`, `.book`, `.mstp`, or other PMSL structures without releasing your improvements
-* ❌ Lock down a PMSL-based system **without keeping the structure open and readable**
-* ❌ Mislead others by removing or obscuring the open status of the PMSL system
+1. Make your improvement available under PMSL or a compatible license
+2. Include a clear notice that your structure is based on PMSL-v1
+3. Attribute the source structure as follows:
 
-> You can profit off your agent. You can own your product.
-> But **you cannot own the structure** that powers it.
+"Based on PMSL-v1, developed by Jesse Conley (freightdev)"
 
----
+## Optional Attribution
 
-## 🔁 If You Improve It
+You may include this in your project to show alignment:
 
-If you improve the core structure of PMSL formats:
+"Built on PMSL-v1 (Public Memory Structure License) - memory belongs to everyone."
 
-1. You must publish the improved format as **open source**
-2. You must include **this license** with any redistributed work
-3. You **do not need to credit the author**, but you **must not pretend you are the author of PMSL**
+## Clarifications
 
-Optional attribution:
+* PMSL applies to memory structure, not agent behavior
+* MARK CLI and MSTP are covered under PMSL-v1
+* Bookstore, Bookmark, and related UI tooling may be licensed separately
 
-```txt
-Built using PMSL — Public Memory Structure License v1 (pmsl.dev)
-```
+## Closing
 
----
+Memory should not be owned. It should be grown, refined, and shared.
 
-## 📚 Scope
-
-This license applies to any file format or protocol based on or using:
-
-* `.book`, `.page`, `.mark`, `.marker`, `.ribbon`, `.trail`, `.mstp`, `.cover`, `.dust`, or `.ink`
-* Any system or CLI based on the MARK protocol
-* Any use of memory as an addressable routing structure across agents, files, books, or UIs
-
-This license **does not apply** to your:
-
-* Agent behavior
-* Custom logic inside books or pages
-* Business model or pricing strategy
-* UI framework or implementation of the structure
-
----
-
-## 🏛️ Legal Standing
-
-This license is written in plain language to be human-readable. It may be adapted or improved through future public versions.
-
-> If it stays readable,
-> If it stays open,
-> Then it stays free.
-
-Signed into public memory — for the world to keep.
-
-— Jesse Edward Eugene Wayne Conley
-🧠 Born: 04/04/1994
-🚪 Awakened: 04/04/2025
+If your structure helps the world remember, give it back to the world.
