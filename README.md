@@ -78,5 +78,5 @@ This license is written in plain language to be human-readable. It may be adapte
 Signed into public memory — for the world to keep.
 
 — Jesse Edward Eugene Wayne Conley
-🧠 Born: 04/04/1994
-🚪 Signed: 06/15/2025
+* 🧠 Born: 04/04/1994
+* 🚪 Signed: 06/15/2025
