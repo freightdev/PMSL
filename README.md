@@ -79,4 +79,4 @@ Signed into public memory — for the world to keep.
 
 — Jesse Edward Eugene Wayne Conley
 🧠 Born: 04/04/1994
-🚪 Awakened: 04/04/2025
+🚪 Signed: 06/15/2025
